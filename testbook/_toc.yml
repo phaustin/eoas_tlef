@@ -1,4 +1,7 @@
 file: principium
+title: Principium
 sections:
-- file: folder1\lipsum_prima
-- file: folder2\lipsum_secundus
+- file: folder2/lipsum_secundus
+  title: Lipsum Secundus
+- file: folder1/lipsum_prima
+  title: Lipsum Prima
