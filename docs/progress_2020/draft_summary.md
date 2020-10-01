@@ -7,7 +7,7 @@
 * Adapt pangeo docker images for jupyterbooks [[5]](https://github.com/pangeo-data/pangeo-docker-images/pull/126)
 
 
-## Jupyerhubs
+## Jupyterhubs
 
 * [EOSC 350 course jupyterhub](https://jupyterhub.eoas.ubc.ca)
 * [Kazarinoff: Problem Solving book jupyterhub](https://atsc_hub.eoas.ubc.ca)
@@ -28,7 +28,8 @@
 
 * [Peter Kazarinoff: Problem solving with python](https://atsc_web.eoas.ubc.ca)
 * [ATSC 301 - remote sensing](https://a301_web.eoas.ubc.ca)
-* [Allen Downey, how to think like a computer scientist](https://phaustin.github.io/think_jupyter/preface.html)
+* [Allen Downey, how to think like a computer scientist (in progress)](https://phaustin.github.io/think_jupyter/preface.html)
+* [EOSC 211 (in progress)](https://phaustin.github.io/eosc211/info_and_announcements.html)
 
 ## Meeting abstracts
 
