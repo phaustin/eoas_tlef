@@ -1,4 +1,5 @@
 # year 1 progress report
+Link to [github markdown source](https://github.com/phaustin/eoas_tlef/blob/pha_work/docs/progress_2020/draft_summary.md)
 
 ## Open source contributions
 
@@ -39,7 +40,7 @@
 * [Project Pythia](https://docs.google.com/document/d/1HzOYGRsMnnE8KQIeU_nR6DSjLNj7pSoK8V9_kn0_rHw/edit)
 * [Executable book project](https://executablebooks.org/en/latest/)
 * [Pangeo](https://github.com/pangeo-data/education-material)
-* [Earthcube-Jupyter meets the earth](https://blog.jupyter.org/jupyter-meets-the-earth-1b0eb33c83f)
+* [Earthcube: Jupyter meets the earth](https://blog.jupyter.org/jupyter-meets-the-earth-1b0eb33c83f)
 * [2I2C](https://2i2c.org/)
 
 # Appendix
