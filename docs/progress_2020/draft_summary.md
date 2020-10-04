@@ -1,5 +1,7 @@
-# year 1 progress report
-Link to [github markdown source](https://github.com/phaustin/eoas_tlef/blob/pha_work/docs/progress_2020/draft_summary.md)
+# OCESE year 1 progress report
+
+* Link to [OCESE website](https://eoas-ubc.github.io/)  
+* Link to [github markdown source](https://github.com/phaustin/eoas_tlef/blob/pha_work/docs/progress_2020/draft_summary.md)
 
 ## Open source contributions
 
