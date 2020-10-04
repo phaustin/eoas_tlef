@@ -35,6 +35,11 @@
 
 * [American Meteorological Society 2021 Annual meeting (submitted)](https://ams.confex.com/ams/101ANNUAL/11python/papers/viewonly.cgi?password=582729&username=384767)
 
+## External collaborations
+
+* [Project Pythia](https://docs.google.com/document/d/1HzOYGRsMnnE8KQIeU_nR6DSjLNj7pSoK8V9_kn0_rHw/edit)
+* [Executable book project](https://executablebooks.org/en/latest/)
+* [Pangeo](https://github.com/pangeo-data/education-material)
 
 # Appendix
 
